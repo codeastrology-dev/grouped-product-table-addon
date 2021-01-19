@@ -1,1 +1,1 @@
-# grouped-product-table-addon
+# WooCommerce Grouped Product Table
